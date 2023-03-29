@@ -3,12 +3,12 @@ entries:
   stonework:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-28T10:02:19.195152729-07:00"
+    created: "2023-03-29T00:10:21.753919382-07:00"
     description: A Helm chart for Kubernetes
-    digest: 4354531fb893c023787233c440a7c69aaaf1473b087ff8589ee46e5c1b5dc166
+    digest: 94380061309eaabadf160cf294afee90347fb41ea7e65cdbf09b8166800d556c
     name: stonework
     type: application
     urls:
     - Packages/stonework-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-28T10:02:19.192850211-07:00"
+generated: "2023-03-29T00:10:21.75254882-07:00"
